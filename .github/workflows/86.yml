@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_x86
+name: 振振在线编译1.0
 
 on: 
   release:
